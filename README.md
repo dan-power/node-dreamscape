@@ -3,9 +3,9 @@
 _Dreamscape Reseller API module for node.js_
 
 ## Installation
-To install `node-dreamscape`, you need [node.js](http://nodejs.org/) and [npm](https://github.com/npm/npm#super-easy-install).
+To install `dreamscape`, you need [node.js](http://nodejs.org/) and [npm](https://github.com/npm/npm#super-easy-install).
 
-Then run `npm install --save node-dreamscape` in your project directory.
+Then run `npm install --save dreamscape` in your project directory.
 
 ## Usage
 ```javascript

@@ -1,10 +1,17 @@
 {
-  "name": "node-dreamscape",
+  "name": "dreamscape",
   "version": "1.0.0",
   "description": "Node module for accessing Dreamscape Reseller API",
   "main": "index.js",
-  "author": "Dan Power (powerd.com.au)",
+  "author": "Dan Power",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dan-power/node-dreamscape/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dan-power/node-dreamscape.git"
+  },
   "keywords": [
     "dreamscape",
     "secureapi",
