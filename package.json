@@ -1,6 +1,6 @@
 {
   "name": "dreamscape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node module for accessing Dreamscape Reseller API",
   "main": "index.js",
   "author": "Dan Power",
@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git://github.com/dan-power/node-dreamscape.git"
   },
+  "main": "./lib/dreamscape",
   "keywords": [
     "dreamscape",
     "secureapi",

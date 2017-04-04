@@ -9,7 +9,7 @@ Then run `npm install --save dreamscape` in your project directory.
 
 ## Usage
 ```javascript
-var Dreamscape = require('./lib/dreamscape');
+var Dreamscape = require('dreamscape');
 
 var client = Dreamscape.client({
   ResellerID: 'YOUR_RESELLER_ID',
